@@ -1,4 +1,4 @@
-# 📧 Spam Email Detection using Machine Learning
+#  Spam Email Detection using Machine Learning
 
 A web-based **Spam Email Detection** application built with **React and Vite**. The project uses Natural Language Processing (NLP) and Machine Learning techniques to classify email messages as **Spam** or **Ham (Legitimate)**.
 
@@ -11,24 +11,24 @@ It also provides dataset analysis, model performance metrics, vocabulary insight
 
 ---
 
-## 🚀 Features
+##  Features
 
-* 📩 Detect whether an email is **Spam or Ham**
-* 🤖 Supports **Naive Bayes** and **Logistic Regression**
-* 🔤 Text preprocessing and tokenization
-* 📊 TF-IDF feature extraction
-* 📈 Model performance and evaluation metrics
-* 🔎 Email text analysis
-* 📚 Vocabulary and important-term analysis
-* 🧮 Confusion matrix visualization
-* 📋 Email dataset statistics
-* 📄 Generate and download a PDF report
-* 💻 Runs machine learning directly in the browser
-* 📱 Responsive React-based interface
+*  Detect whether an email is **Spam or Ham**
+*  Supports **Naive Bayes** and **Logistic Regression**
+*  Text preprocessing and tokenization
+*  TF-IDF feature extraction
+*  Model performance and evaluation metrics
+*  Email text analysis
+*  Vocabulary and important-term analysis
+*  Confusion matrix visualization
+*  Email dataset statistics
+*  Generate and download a PDF report
+*  Runs machine learning directly in the browser
+*  Responsive React-based interface
 
 ---
 
-## 🧠 Machine Learning Workflow
+##  Machine Learning Workflow
 
 The project follows a complete machine learning pipeline:
 
@@ -101,7 +101,7 @@ The model produces a spam probability between 0 and 1.
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Both models are evaluated using the same held-out test dataset.
 
@@ -117,7 +117,7 @@ This makes it possible to compare the performance of Naive Bayes and Logistic Re
 
 ---
 
-## 🖥️ Application Pages
+##  Application Pages
 
 ### Dashboard
 
@@ -149,7 +149,7 @@ Displays the performance of the machine learning models and allows comparison be
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 spam-email-detection/
@@ -210,7 +210,7 @@ spam-email-detection/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -240,7 +240,7 @@ spam-email-detection/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -274,7 +274,7 @@ http://localhost:5173
 
 ---
 
-## 📧 Using the Spam Detector
+##  Using the Spam Detector
 
 1. Start the application.
 2. Open the **Spam Detector** page.
@@ -287,7 +287,7 @@ http://localhost:5173
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The project uses:
 
@@ -319,13 +319,13 @@ ham / legitimate / 0 / false
 
 ---
 
-## 🔐 Privacy
+##  Privacy
 
 The machine learning pipeline runs in the browser. Email text entered into the detector is processed locally by the application and is not required to be sent to an external machine-learning API.
 
 ---
 
-## 📄 PDF Reports
+##  PDF Reports
 
 The application can generate a downloadable report containing information such as:
 
@@ -342,7 +342,7 @@ The report does not need to include the raw email message.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -356,7 +356,7 @@ The main objectives of this project are:
 
 ---
 
-## 🌍 Real-World Applications
+##  Real-World Applications
 
 Spam detection systems are commonly useful for:
 
@@ -371,7 +371,7 @@ For example, an email containing suspicious promotional language, unusual links,
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Possible improvements include:
 
@@ -388,7 +388,7 @@ Possible improvements include:
 
 ---
 
-## 👩‍💻 Project Type
+##  Project Type
 
 **Machine Learning + NLP + React Web Application**
 
@@ -403,10 +403,10 @@ This project is suitable for:
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 The **Spam Email Detection** project demonstrates how Natural Language Processing and Machine Learning can be combined with a modern React interface to create an interactive email classification system.
 
 By using **TF-IDF, Naive Bayes, and Logistic Regression**, the application transforms email text into meaningful numerical features and predicts whether the message is likely to be **Spam or Ham**.
 # spam_email_detection
-# 📧 Spam Email Detection using Machine Learning  A web-based **Spam Email Detection** application built with **React and Vite**. The project uses Natural Language Processing (NLP) and Machine Learning techniques to classify email messages as **Spam** or **Ham (Legitimate)**.  
+#  Spam Email Detection using Machine Learning  A web-based **Spam Email Detection** application built with **React and Vite**. The project uses Natural Language Processing (NLP) and Machine Learning techniques to classify email messages as **Spam** or **Ham (Legitimate)**.  
